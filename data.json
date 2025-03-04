@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Barbie Dreamtopia",
+      "theme": "Fantasy",
+      "releaseYear": 2020
+    },
+    {
+      "id": 2,
+      "name": "Barbie Fashionista",
+      "theme": "Fashion",
+      "releaseYear": 2021
+    },
+    {
+      "id": 3,
+      "name": "Barbie Career Pilot",
+      "theme": "Career",
+      "releaseYear": 2019
+    },
+    {
+      "id": 4,
+      "name": "Barbie Princess Adventure",
+      "theme": "Princess",
+      "releaseYear": 2022
+    },
+    {
+      "id": 5,
+      "name": "Barbie Mermaid Power",
+      "theme": "Fantasy",
+      "releaseYear": 2023
+    }
+  ]
+  

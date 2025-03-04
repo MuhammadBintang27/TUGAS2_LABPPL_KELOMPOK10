@@ -1,0 +1,19 @@
+{
+  "name": "tugas2_ppl",
+  "version": "1.0.0",
+  "description": "Tugas ini dibuat untuk lab ppl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadBintang27/TUGAS2_LABPPL_KELOMPOK10.git"
+  },
+  "author": "Kelompok 10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadBintang27/TUGAS2_LABPPL_KELOMPOK10/issues"
+  },
+  "homepage": "https://github.com/MuhammadBintang27/TUGAS2_LABPPL_KELOMPOK10#readme"
+}
